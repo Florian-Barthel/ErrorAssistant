@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.florianbarthel.errorassistant.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.florianbarthel.errorassistant.MyBundle
 
 class MyApplicationService {
 
